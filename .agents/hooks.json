@@ -1,0 +1,11 @@
+{
+  "completion-sound": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python notify_done.py",
+        "timeout": 10
+      }
+    ]
+  }
+}
